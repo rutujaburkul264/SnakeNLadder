@@ -34,4 +34,5 @@ namespace SnakeNLadder
  	Thread.Sleep(2000);
         return 1;
 	}
+
 }
