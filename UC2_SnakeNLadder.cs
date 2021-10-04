@@ -22,5 +22,4 @@ namespace SnakeNLadder
             return random.Next(1, 7);
         }
     }
-
 }
